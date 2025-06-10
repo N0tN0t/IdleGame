@@ -1,0 +1,2 @@
+# IdleGame
+IdleGame for project
