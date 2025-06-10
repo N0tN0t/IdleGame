@@ -1,2 +1,4 @@
 # IdleGame
-IdleGame for project
+Сама игра находится в папке **Build**
+
+Код и ассеты в папке **Assets**
